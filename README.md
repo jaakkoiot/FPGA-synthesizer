@@ -6,7 +6,7 @@ Digital synthesizer implemented in Verilog for the DE0-Nano.
 Create a full-fledged synthesizer with direct-digital sound generation with filters, LUT-based oscillators and simple polyphony.
 
 <h3>HW</h3>
-<4>Brains:</h4>Altera/Intel Terasic Cyclone IV EP4CE22F17C6N DE0 Nano FPGA board.
+<h4>Brains:</h4>Altera/Intel Terasic Cyclone IV EP4CE22F17C6N DE0 Nano FPGA board.
 <h4>Rest:</h4>WIP
 
 <h3>Conversion</h3>
